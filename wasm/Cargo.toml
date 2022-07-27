@@ -1,7 +1,8 @@
 [package]
-name = "backend"
+name = "wasm"
 version = "0.1.0"
-edition = "2021"
+authors = ["Nuno Góis <github@nunogois.com>"]
+edition = "2018"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
